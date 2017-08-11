@@ -18,6 +18,7 @@ disana akan dijelaskan mengenai profil saya.
 >    * li
 >    * p
 >    * br
+>    * ol
 >    * section
 >    * footer
 
