@@ -1,6 +1,6 @@
 # raniriskar.github.io
 
-###**About This Site**
+### **About This Site**
 
 > Website ini bibuat untuk memenuhi tugas minggu pertama di fase 0,   
 disana akan dijelaskan mengenai profil saya.
